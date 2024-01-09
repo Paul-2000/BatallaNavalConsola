@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1544110368 source:c:\users\antoni\saved games\main.cpp
+	<iostream>
+	<cstdlib>
+	"CSYSTEM/csystem.h"
+	"Juego.h"
+	"Menus.h"
+
+1399506914 c:\users\antoni\saved games\csystem\csystem.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<unistd.h>
+
+1544110353 c:\users\antoni\saved games\juego.h
+	<windows.h>
+	<cstring>
+	<stdbool.h>
+	<string.h>
+	"Menus.h"
+
+1544110240 c:\users\antoni\saved games\menus.h
+	"Juego.h"
+	<windows.h>
+
+1550864683 source:c:\users\antoni\saved games\batalla naval-antoni briceño\main.cpp
+	<iostream>
+	<cstdlib>
+	"CSYSTEM/csystem.h"
+	"Juego.h"
+	"Menus.h"
+
+1399506914 c:\users\antoni\saved games\batalla naval-antoni briceño\csystem\csystem.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<unistd.h>
+
+1550866422 c:\users\antoni\saved games\batalla naval-antoni briceño\juego.h
+	<windows.h>
+	<cstring>
+	<string.h>
+	"Menus.h"
+
+1550864683 c:\users\antoni\saved games\batalla naval-antoni briceño\menus.h
+	"Juego.h"
+	<windows.h>
+
+1550864684 source:c:\respaldo de pc\batalla naval-antoni briceño\main.cpp
+	<iostream>
+	<cstdlib>
+	"CSYSTEM/csystem.h"
+	"Juego.h"
+	"Menus.h"
+
+1399506914 c:\respaldo de pc\batalla naval-antoni briceño\csystem\csystem.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<unistd.h>
+
+1550866424 c:\respaldo de pc\batalla naval-antoni briceño\juego.h
+	<windows.h>
+	<cstring>
+	<string.h>
+	"Menus.h"
+
+1550864684 c:\respaldo de pc\batalla naval-antoni briceño\menus.h
+	"Juego.h"
+	<windows.h>
+
+1550864684 source:f:\respaldo de pc\batalla naval-antoni briceño\main.cpp
+	<iostream>
+	<cstdlib>
+	"CSYSTEM/csystem.h"
+	"Juego.h"
+	"Menus.h"
+
+1399506914 f:\respaldo de pc\batalla naval-antoni briceño\csystem\csystem.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<unistd.h>
+
+1550866424 f:\respaldo de pc\batalla naval-antoni briceño\juego.h
+	<windows.h>
+	<cstring>
+	<string.h>
+	"Menus.h"
+
+1550864684 f:\respaldo de pc\batalla naval-antoni briceño\menus.h
+	"Juego.h"
+	<windows.h>
+
